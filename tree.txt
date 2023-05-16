@@ -1,0 +1,9 @@
+Azalea_tree_07 = mapName_tree01
+white_Oak_01 = tree02
+ItalianCypressNeedles_1 = tree03
+ItalianCypressNeedles_2 = tree04
+JapaneseAngelica_01 = tree05
+CrapeMyrtle_01 = tree06
+CypressOak_02 = tree07
+CypressOak_03 = tree08
+CypressOak_05 = tree09

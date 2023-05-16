@@ -1,0 +1,17 @@
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\Revive.cs
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\Revive.dll
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\Revive.pdb
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\0Harmony.dll
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\BepInEx.dll
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\Mono.Cecil.dll
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\MonoMod.Utils.dll
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\0Harmony.xml
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\BepInEx.xml
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\MonoMod.Utils.xml
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\obj\Debug\Revive.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\obj\Debug\Revive.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\obj\Debug\Revive.csproj.CopyComplete
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\obj\Debug\Revive.dll
+C:\Users\Justin\Desktop\ReviveMod-master\Revive\obj\Debug\Revive.pdb
